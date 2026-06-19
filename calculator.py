@@ -15,7 +15,7 @@ def multiply(a, b):
 
 def main():
     print("=== Mini Calculator ===")
-    print("Operations available: add, subtract, multiply")
+print("Available operations: add, subtract, multiply")
     op = input("Choose operation: ")
     x = float(input("Enter first number: "))
     y = float(input("Enter second number: "))
