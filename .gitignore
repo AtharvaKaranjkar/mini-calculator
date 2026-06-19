@@ -1,0 +1,5 @@
+# Secrets and environment
+.env
+__pycache__/
+*.log
+.DS_Store
