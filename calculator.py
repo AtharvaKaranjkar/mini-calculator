@@ -14,7 +14,7 @@ def subtract(a, b):
 
 def main():
     print("=== Mini Calculator ===")
-    print("Operations: add, subtract")
+    print("Available operations: add, subtract")
     op = input("Choose operation: ")
     x = float(input("Enter first number: "))
     y = float(input("Enter second number: "))
