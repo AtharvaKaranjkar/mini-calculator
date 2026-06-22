@@ -23,6 +23,9 @@ def show_help():
     
 show_help()
 
+def goodbye():
+    print("Thanks for using Mini Calculator!")
+    
 def main():
     print("=== Mini Calculator ===")
     print("Available operations: add, subtract, multiply, divide")
