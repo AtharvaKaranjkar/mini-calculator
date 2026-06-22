@@ -17,8 +17,11 @@ def divide(a, b):
         return "Error: cannot divide by zero"
     return a / b
 
-    
+def show_help():
+    print("This calculator performs: add, subtract, multiply, divide")
 
+    
+show_help()
 
 def main():
     print("=== Mini Calculator ===")
